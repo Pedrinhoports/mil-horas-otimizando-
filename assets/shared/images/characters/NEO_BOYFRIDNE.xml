@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NEO_BOYFRIDNE.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NEO BF DOWN MISS0000" x="0" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0001" x="0" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0002" x="460" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0003" x="920" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0004" x="920" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0005" x="920" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0006" x="920" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0007" x="920" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF DOWN MISS0008" x="920" y="0" width="460" height="567"/>
+	<SubTexture name="NEO BF HEY!0000" x="1380" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0001" x="1380" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0002" x="1811" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0003" x="2242" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0004" x="2242" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0005" x="2242" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0006" x="2242" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0007" x="2242" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0008" x="2242" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF HEY!0009" x="2242" y="0" width="431" height="685"/>
+	<SubTexture name="NEO BF IDLE0000" x="2673" y="0" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0001" x="2673" y="0" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0002" x="3117" y="0" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0003" x="3117" y="0" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0004" x="3561" y="0" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0005" x="3561" y="0" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0006" x="0" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0007" x="0" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0008" x="444" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0009" x="444" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0010" x="444" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0011" x="444" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0012" x="444" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF IDLE0013" x="444" y="685" width="444" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0000" x="888" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0001" x="888" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0002" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0003" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0004" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0005" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0006" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0007" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0008" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0009" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0010" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0011" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0012" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF LEFT MISS0013" x="1353" y="685" width="465" height="679"/>
+	<SubTexture name="NEO BF NOTE DOWN0000" x="1818" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0001" x="1818" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0002" x="2279" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0003" x="2279" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0004" x="2740" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0005" x="2740" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0006" x="2740" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0007" x="2740" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE DOWN0008" x="2740" y="685" width="461" height="574"/>
+	<SubTexture name="NEO BF NOTE LEFT0000" x="3201" y="685" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0001" x="3201" y="685" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0002" x="0" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0003" x="0" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0004" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0005" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0006" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0007" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0008" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0009" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0010" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0011" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0012" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0013" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0014" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE LEFT0015" x="467" y="1364" width="467" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0000" x="934" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0001" x="934" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0002" x="1340" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0003" x="1340" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0004" x="1746" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0005" x="1746" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0006" x="1746" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0007" x="1746" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE RIGHT0008" x="1746" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF NOTE UP0000" x="2152" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0001" x="2152" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0002" x="2587" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0003" x="2587" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0004" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0005" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0006" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0007" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0008" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0009" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0010" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF NOTE UP0011" x="3022" y="1364" width="435" height="706"/>
+	<SubTexture name="NEO BF RIGHT MISS0000" x="934" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0001" x="934" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0002" x="3457" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0003" x="3457" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0004" x="3457" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0005" x="3457" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0006" x="3457" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0007" x="3457" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF RIGHT MISS0008" x="3457" y="1364" width="406" height="679"/>
+	<SubTexture name="NEO BF UP MISS0000" x="0" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0001" x="0" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0002" x="435" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0003" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0004" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0005" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0006" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0007" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0008" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0009" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0010" x="870" y="2070" width="435" height="714"/>
+	<SubTexture name="NEO BF UP MISS0011" x="870" y="2070" width="435" height="714"/>
+</TextureAtlas>

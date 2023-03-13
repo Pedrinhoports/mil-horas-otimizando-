@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monikatrust_gameover.png">
+<SubTexture name="MONIKA GAMEOVER END0000" x="1199" y="0" width="645" height="526" frameX="0" frameY="-1" frameWidth="645" frameHeight="528" />
+<SubTexture name="MONIKA GAMEOVER END0001" x="1199" y="0" width="645" height="526" frameX="0" frameY="0" frameWidth="645" frameHeight="528" />
+<SubTexture name="MONIKA GAMEOVER END0002" x="0" y="732" width="645" height="526" frameX="0" frameY="-1" frameWidth="645" frameHeight="528" />
+<SubTexture name="MONIKA GAMEOVER END0003" x="645" y="732" width="645" height="526" frameX="0" frameY="-1" frameWidth="645" frameHeight="528" />
+<SubTexture name="MONIKA GAMEOVER START0000" x="800" y="0" width="399" height="703" frameX="-300" frameY="-27" frameWidth="759" frameHeight="772" />
+<SubTexture name="MONIKA GAMEOVER START0001" x="800" y="0" width="399" height="703" frameX="0" frameY="0" frameWidth="759" frameHeight="772" />
+<SubTexture name="MONIKA GAMEOVER START0002" x="0" y="0" width="400" height="732" frameX="-299" frameY="0" frameWidth="759" frameHeight="772" />
+<SubTexture name="MONIKA GAMEOVER START0003" x="400" y="0" width="400" height="732" frameX="-299" frameY="0" frameWidth="759" frameHeight="772" />
+<SubTexture name="MONIKA LOOP GAMEOVER0000" x="1290" y="732" width="547" height="519" frameX="0" frameY="-8" frameWidth="549" frameHeight="528" />
+<SubTexture name="MONIKA LOOP GAMEOVER0001" x="1290" y="732" width="547" height="519" frameX="0" frameY="0" frameWidth="549" frameHeight="528" />
+<SubTexture name="MONIKA LOOP GAMEOVER0002" x="1290" y="732" width="547" height="519" frameX="0" frameY="0" frameWidth="549" frameHeight="528" />
+<SubTexture name="MONIKA LOOP GAMEOVER0003" x="1290" y="732" width="547" height="519" frameX="0" frameY="0" frameWidth="549" frameHeight="528" />
+</TextureAtlas>

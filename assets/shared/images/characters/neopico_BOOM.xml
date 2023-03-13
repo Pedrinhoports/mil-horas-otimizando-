@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neopico_BOOM.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="busted speakers 0000" x="0" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0001" x="0" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0002" x="0" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0003" x="0" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0004" x="503" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0005" x="503" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0006" x="503" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0007" x="503" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0008" x="1006" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0009" x="1006" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0010" x="1006" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0011" x="1006" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0012" x="1509" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0013" x="1509" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0014" x="1509" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0015" x="1509" y="0" width="503" height="644"/>
+	<SubTexture name="busted speakers 0016" x="0" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0017" x="0" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0018" x="0" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0019" x="0" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0020" x="503" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0021" x="503" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0022" x="503" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0023" x="503" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers 0024" x="503" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0000" x="1006" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0001" x="1006" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0002" x="1006" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0003" x="1006" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0004" x="1509" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0005" x="1509" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0006" x="1509" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0007" x="1509" y="644" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0008" x="0" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0009" x="0" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0010" x="0" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0011" x="0" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0012" x="503" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0013" x="503" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0014" x="503" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0015" x="503" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0016" x="1006" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0017" x="1006" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0018" x="1006" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0019" x="1006" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0020" x="1509" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0021" x="1509" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0022" x="1509" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0023" x="1509" y="1288" width="503" height="644"/>
+	<SubTexture name="busted speakers SHOOT0024" x="1509" y="1288" width="503" height="644"/>
+</TextureAtlas>

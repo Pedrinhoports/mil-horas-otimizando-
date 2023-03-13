@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sayori_tr.png">
+<SubTexture name="SAYORI IDLE0000" x="1352" y="1163" width="676" height="1120" frameX="0" frameY="-18" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI IDLE0001" x="1352" y="1163" width="676" height="1120" frameX="0" frameY="-18" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI IDLE0002" x="2028" y="1163" width="676" height="1119" frameX="0" frameY="-19" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI IDLE0003" x="2028" y="1163" width="676" height="1119" frameX="0" frameY="-19" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI NOTE DOWN0000" x="2704" y="1110" width="676" height="1101" frameX="0" frameY="-9" frameWidth="676" frameHeight="1111" />
+<SubTexture name="SAYORI NOTE DOWN0001" x="2704" y="1110" width="676" height="1101" frameX="0" frameY="-9" frameWidth="676" frameHeight="1111" />
+<SubTexture name="SAYORI NOTE DOWN0002" x="2704" y="0" width="676" height="1110" frameX="0" frameY="0" frameWidth="676" frameHeight="1111" />
+<SubTexture name="SAYORI NOTE DOWN0003" x="2704" y="0" width="676" height="1110" frameX="0" frameY="0" frameWidth="676" frameHeight="1111" />
+<SubTexture name="SAYORI NOTE LEFT0000" x="676" y="1163" width="676" height="1136" frameX="0" frameY="-2" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI NOTE LEFT0001" x="676" y="1163" width="676" height="1136" frameX="0" frameY="-2" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI NOTE LEFT0002" x="2028" y="0" width="676" height="1138" frameX="0" frameY="0" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI NOTE LEFT0003" x="2028" y="0" width="676" height="1138" frameX="0" frameY="0" frameWidth="676" frameHeight="1139" />
+<SubTexture name="SAYORI NOTE RIGHT0000" x="1352" y="0" width="676" height="1140" frameX="0" frameY="0" frameWidth="676" frameHeight="1141" />
+<SubTexture name="SAYORI NOTE RIGHT0001" x="1352" y="0" width="676" height="1140" frameX="0" frameY="0" frameWidth="676" frameHeight="1141" />
+<SubTexture name="SAYORI NOTE RIGHT0002" x="0" y="1163" width="676" height="1138" frameX="0" frameY="-2" frameWidth="676" frameHeight="1141" />
+<SubTexture name="SAYORI NOTE RIGHT0003" x="0" y="1163" width="676" height="1138" frameX="0" frameY="-2" frameWidth="676" frameHeight="1141" />
+<SubTexture name="SAYORI NOTE UP0000" x="0" y="0" width="676" height="1163" frameX="0" frameY="0" frameWidth="676" frameHeight="1164" />
+<SubTexture name="SAYORI NOTE UP0001" x="0" y="0" width="676" height="1163" frameX="0" frameY="0" frameWidth="676" frameHeight="1164" />
+<SubTexture name="SAYORI NOTE UP0002" x="676" y="0" width="676" height="1157" frameX="0" frameY="-6" frameWidth="676" frameHeight="1164" />
+<SubTexture name="SAYORI NOTE UP0003" x="676" y="0" width="676" height="1157" frameX="0" frameY="-6" frameWidth="676" frameHeight="1164" />
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NEO_ALT_MONIKA.png">
+<SubTexture name="NEO MONIKA ALT DOWN0000" x="0" y="0" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT DOWN0001" x="0" y="0" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT IDLE0000" x="3499" y="0" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT IDLE0001" x="3499" y="0" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT IDLE0002" x="0" y="2306" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT LEFT0000" x="3499" y="2306" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT LEFT0001" x="3499" y="2306" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT RIGHT0000" x="0" y="4612" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT RIGHT0001" x="0" y="4612" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT UP0000" x="3499" y="4612" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+<SubTexture name="NEO MONIKA ALT UP0001" x="3499" y="4612" width="3499" height="2306" frameX="-1" frameY="0" frameWidth="3510" frameHeight="2315" />
+</TextureAtlas>

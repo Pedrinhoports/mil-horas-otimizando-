@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yuri_sl.png">
+<SubTexture name="YURI BACK OFF0000" x="0" y="2199" width="597" height="712" frameX="0" frameY="-11" frameWidth="597" frameHeight="724" />
+<SubTexture name="YURI BACK OFF0001" x="0" y="2199" width="597" height="712" frameX="0" frameY="0" frameWidth="597" frameHeight="724" />
+<SubTexture name="YURI BACK OFF0002" x="597" y="2199" width="597" height="712" frameX="0" frameY="-11" frameWidth="597" frameHeight="724" />
+<SubTexture name="YURI BACK OFF0003" x="1750" y="0" width="579" height="721" frameX="0" frameY="-2" frameWidth="597" frameHeight="724" />
+<SubTexture name="YURI CALM0000" x="0" y="751" width="429" height="732" frameX="-6" frameY="0" frameWidth="436" frameHeight="733" />
+<SubTexture name="YURI CALM0001" x="0" y="751" width="429" height="732" frameX="0" frameY="0" frameWidth="436" frameHeight="733" />
+<SubTexture name="YURI CALM0002" x="0" y="751" width="429" height="732" frameX="0" frameY="0" frameWidth="436" frameHeight="733" />
+<SubTexture name="YURI CALM0003" x="0" y="751" width="429" height="732" frameX="0" frameY="0" frameWidth="436" frameHeight="733" />
+<SubTexture name="YURI DOWN MISS0000" x="1174" y="2911" width="584" height="691" frameX="0" frameY="0" frameWidth="584" frameHeight="692" />
+<SubTexture name="YURI DOWN MISS0001" x="1174" y="2911" width="584" height="691" frameX="0" frameY="0" frameWidth="584" frameHeight="692" />
+<SubTexture name="YURI DOWN MISS0002" x="1758" y="2911" width="584" height="691" frameX="0" frameY="-1" frameWidth="584" frameHeight="692" />
+<SubTexture name="YURI DOWN MISS0003" x="2342" y="2911" width="584" height="678" frameX="0" frameY="-13" frameWidth="584" frameHeight="692" />
+<SubTexture name="YURI HEAD TILT0000" x="2329" y="0" width="582" height="714" frameX="0" frameY="0" frameWidth="593" frameHeight="715" />
+<SubTexture name="YURI HEAD TILT0001" x="2329" y="0" width="582" height="714" frameX="0" frameY="0" frameWidth="593" frameHeight="715" />
+<SubTexture name="YURI HEAD TILT0002" x="2329" y="714" width="580" height="712" frameX="-7" frameY="-2" frameWidth="593" frameHeight="715" />
+<SubTexture name="YURI HEAD TILT0003" x="2329" y="714" width="580" height="712" frameX="0" frameY="0" frameWidth="593" frameHeight="715" />
+<SubTexture name="YURI IDLE0000" x="0" y="2911" width="592" height="707" frameX="0" frameY="-8" frameWidth="592" frameHeight="715" />
+<SubTexture name="YURI IDLE0001" x="0" y="2911" width="592" height="707" frameX="0" frameY="0" frameWidth="592" frameHeight="715" />
+<SubTexture name="YURI IDLE0002" x="2911" y="0" width="571" height="710" frameX="0" frameY="-5" frameWidth="592" frameHeight="715" />
+<SubTexture name="YURI IDLE0003" x="2911" y="0" width="571" height="710" frameX="0" frameY="0" frameWidth="592" frameHeight="715" />
+<SubTexture name="YURI LEFT MISS0000" x="3482" y="0" width="587" height="708" frameX="-4" frameY="0" frameWidth="598" frameHeight="715" />
+<SubTexture name="YURI LEFT MISS0001" x="3482" y="0" width="587" height="708" frameX="0" frameY="0" frameWidth="598" frameHeight="715" />
+<SubTexture name="YURI LEFT MISS0002" x="575" y="1483" width="592" height="715" frameX="-6" frameY="0" frameWidth="598" frameHeight="715" />
+<SubTexture name="YURI LEFT MISS0003" x="1167" y="1483" width="594" height="715" frameX="0" frameY="0" frameWidth="598" frameHeight="715" />
+<SubTexture name="YURI NOTE DOWN0000" x="592" y="2911" width="582" height="692" frameX="0" frameY="-5" frameWidth="582" frameHeight="697" />
+<SubTexture name="YURI NOTE DOWN0001" x="592" y="2911" width="582" height="692" frameX="0" frameY="0" frameWidth="582" frameHeight="697" />
+<SubTexture name="YURI NOTE DOWN0002" x="3482" y="2122" width="582" height="697" frameX="0" frameY="0" frameWidth="582" frameHeight="697" />
+<SubTexture name="YURI NOTE DOWN0003" x="3482" y="2122" width="582" height="697" frameX="0" frameY="0" frameWidth="582" frameHeight="697" />
+<SubTexture name="YURI NOTE LEFT0000" x="3482" y="708" width="585" height="707" frameX="0" frameY="0" frameWidth="588" frameHeight="708" />
+<SubTexture name="YURI NOTE LEFT0001" x="3482" y="708" width="585" height="707" frameX="0" frameY="0" frameWidth="588" frameHeight="708" />
+<SubTexture name="YURI NOTE LEFT0002" x="3482" y="1415" width="584" height="707" frameX="-2" frameY="0" frameWidth="588" frameHeight="708" />
+<SubTexture name="YURI NOTE LEFT0003" x="3482" y="1415" width="584" height="707" frameX="0" frameY="0" frameWidth="588" frameHeight="708" />
+<SubTexture name="YURI NOTE RIGHT0000" x="2329" y="1426" width="576" height="712" frameX="-4" frameY="0" frameWidth="580" frameHeight="713" />
+<SubTexture name="YURI NOTE RIGHT0001" x="2329" y="1426" width="576" height="712" frameX="0" frameY="0" frameWidth="580" frameHeight="713" />
+<SubTexture name="YURI NOTE RIGHT0002" x="1194" y="2199" width="580" height="712" frameX="0" frameY="0" frameWidth="580" frameHeight="713" />
+<SubTexture name="YURI NOTE RIGHT0003" x="1194" y="2199" width="580" height="712" frameX="0" frameY="0" frameWidth="580" frameHeight="713" />
+<SubTexture name="YURI NOTE UP0000" x="1168" y="0" width="582" height="735" frameX="0" frameY="0" frameWidth="585" frameHeight="736" />
+<SubTexture name="YURI NOTE UP0001" x="1168" y="0" width="582" height="735" frameX="0" frameY="0" frameWidth="585" frameHeight="736" />
+<SubTexture name="YURI NOTE UP0002" x="429" y="751" width="583" height="731" frameX="-2" frameY="-4" frameWidth="585" frameHeight="736" />
+<SubTexture name="YURI NOTE UP0003" x="429" y="751" width="583" height="731" frameX="0" frameY="0" frameWidth="585" frameHeight="736" />
+<SubTexture name="YURI RIGHT MISS0000" x="1774" y="2199" width="576" height="712" frameX="0" frameY="0" frameWidth="576" frameHeight="717" />
+<SubTexture name="YURI RIGHT MISS0001" x="1774" y="2199" width="576" height="712" frameX="0" frameY="0" frameWidth="576" frameHeight="717" />
+<SubTexture name="YURI RIGHT MISS0002" x="1750" y="721" width="576" height="716" frameX="0" frameY="0" frameWidth="576" frameHeight="717" />
+<SubTexture name="YURI RIGHT MISS0003" x="0" y="1483" width="575" height="716" frameX="0" frameY="0" frameWidth="576" frameHeight="717" />
+<SubTexture name="YURI SUPRISED0000" x="1012" y="751" width="432" height="724" frameX="-1" frameY="-16" frameWidth="443" frameHeight="740" />
+<SubTexture name="YURI SUPRISED0001" x="2911" y="710" width="423" height="685" frameX="0" frameY="-54" frameWidth="443" frameHeight="740" />
+<SubTexture name="YURI SUPRISED0002" x="2911" y="710" width="423" height="685" frameX="0" frameY="0" frameWidth="443" frameHeight="740" />
+<SubTexture name="YURI SUPRISED0003" x="1761" y="1483" width="429" height="711" frameX="-4" frameY="-28" frameWidth="443" frameHeight="740" />
+<SubTexture name="YURI UP MISS0000" x="1168" y="0" width="582" height="735" frameX="0" frameY="-14" frameWidth="587" frameHeight="752" />
+<SubTexture name="YURI UP MISS0001" x="1168" y="0" width="582" height="735" frameX="0" frameY="-14" frameWidth="587" frameHeight="752" />
+<SubTexture name="YURI UP MISS0002" x="584" y="0" width="584" height="738" frameX="-2" frameY="-13" frameWidth="587" frameHeight="752" />
+<SubTexture name="YURI UP MISS0003" x="0" y="0" width="584" height="751" frameX="-2" frameY="0" frameWidth="587" frameHeight="752" />
+</TextureAtlas>
