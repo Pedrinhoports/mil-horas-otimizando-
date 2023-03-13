@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				221538.461538461,
+				[
+					[
+						"Play Animation",
+						"breath",
+						"Dad"
+					]
+				]
+			],
+			[
+				223038.461538461,
+				[
+					[
+						"Play Animation",
+						"tilt",
+						"BF"
+					]
+				]
+			],
+			[
+				223961.538461538,
+				[
+					[
+						"Play Animation",
+						"nod",
+						"Dad"
+					]
+				]
+			],
+			[
+				224653.846153846,
+				[
+					[
+						"Play Animation",
+						"back",
+						"BF"
+					]
+				]
+			],
+			[
+				228692.307692307,
+				[
+					[
+						"Play Animation",
+						"fall",
+						"Dad"
+					]
+				]
+			],
+			[
+				229038.461538461,
+				[
+					[
+						"Play Animation",
+						"surpise",
+						"BF"
+					]
+				]
+			],
+			[
+				232500,
+				[
+					[
+						"Play Animation",
+						"calm",
+						"BF"
+					]
+				]
+			],
+			[
+				232730.769230769,
+				[
+					[
+						"Play Animation",
+						"blush",
+						"Dad"
+					]
+				]
+			],
+			[
+				235846.153846154,
+				[
+					[
+						"Play Animation",
+						"eepy",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}
