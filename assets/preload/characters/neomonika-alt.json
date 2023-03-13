@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NEO MONIKA ALT IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NEO MONIKA ALT LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NEO MONIKA ALT RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NEO MONIKA ALT DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NEO MONIKA ALT UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEO_ALT_MONIKA",
+	"position": [
+		-930,
+		-1100
+	],
+	"healthicon": "neo-moni",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		60
+	],
+	"camera_position": [
+		200,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

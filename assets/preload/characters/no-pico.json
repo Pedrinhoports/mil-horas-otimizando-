@@ -1,0 +1,278 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-21
+			],
+			"fps": 24,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				45,
+				-8
+			],
+			"fps": 24,
+			"anim": "hairBlow",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "GF Dancing Beat Hair blowing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"fps": 24,
+			"anim": "hairFall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GF Dancing Beat Hair Landing"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-17
+			],
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "GF FEAR"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PICO LEFT",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PICO DOWN",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PICO UP",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PICO RIGHT",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-42
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "PICO uhoh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "speakers"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "speakers"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nogf-neo",
+	"position": [
+		300,
+		260
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		255,
+		97
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

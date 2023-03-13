@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				307,
+				241
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "YURI GAMEOVER START"
+		},
+		{
+			"offsets": [
+				195,
+				146
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "YURI GAMEOVER LOOP"
+		},
+		{
+			"offsets": [
+				355,
+				146
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "YURI GAMEOVER END"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yurisl_gameover",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "YURI IDLE"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "YURI NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-13,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "YURI NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-6,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "YURI NOTE UP"
+		},
+		{
+			"offsets": [
+				-25,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "YURI NOTE RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "YURI LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-23
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "YURI DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				32
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "YURI UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "YURI RIGHT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tilt",
+			"indices": [],
+			"name": "YURI HEAD TILT"
+		},
+		{
+			"offsets": [
+				-14,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "back",
+			"indices": [],
+			"name": "YURI BACK OFF"
+		},
+		{
+			"offsets": [
+				-175,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "surpise",
+			"indices": [],
+			"name": "YURI SUPRISE"
+		},
+		{
+			"offsets": [
+				-174,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "calm",
+			"indices": [],
+			"name": "YURI CALM"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yuri_sl",
+	"position": [
+		-500,
+		20
+	],
+	"healthicon": "yurilove",
+	"flip_x": true,
+	"healthbar_colors": [
+		189,
+		56,
+		209
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

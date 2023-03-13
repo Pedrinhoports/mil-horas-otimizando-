@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KID IDLE"
+		},
+		{
+			"offsets": [
+				110,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KID LEFT"
+		},
+		{
+			"offsets": [
+				-24,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KID RIGHT"
+		},
+		{
+			"offsets": [
+				60,
+				-436
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KID DOWN"
+		},
+		{
+			"offsets": [
+				14,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KID UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kidnamedbreakfast",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "knb",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		125,
+		162
+	],
+	"camera_position": [
+		-180,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

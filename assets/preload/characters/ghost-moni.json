@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GHOST MONIKA IDLE"
+		},
+		{
+			"offsets": [
+				163,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GHOST MONIKA LEFT"
+		},
+		{
+			"offsets": [
+				-81,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GHOST MONIKA RIGHT"
+		},
+		{
+			"offsets": [
+				-34,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GHOST MONIKA DOWN"
+		},
+		{
+			"offsets": [
+				55,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GHOST MONIKA UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GHOST MONIKA",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "ghost-moni",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

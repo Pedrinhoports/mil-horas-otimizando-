@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SAYORI IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SAYORI NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SAYORI NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SAYORI NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SAYORI NOTE UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sayori_tr",
+	"position": [
+		780,
+		100
+	],
+	"healthicon": "sayoritrust",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		185,
+		255
+	],
+	"camera_position": [
+		-300,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

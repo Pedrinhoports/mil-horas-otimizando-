@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NATSUKI IDLE"
+		},
+		{
+			"offsets": [
+				12,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NATSUKI LEFT"
+		},
+		{
+			"offsets": [
+				-17,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NATSUKI RIGHT"
+		},
+		{
+			"offsets": [
+				-10,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NATSUKI DOWN"
+		},
+		{
+			"offsets": [
+				-12,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NATSUKI UP"
+		},
+		{
+			"offsets": [
+				-20,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eepy",
+			"indices": [],
+			"name": "NATSUKI EEPY"
+		},
+		{
+			"offsets": [
+				-8,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "nod",
+			"indices": [],
+			"name": "NATSUKI NOD"
+		},
+		{
+			"offsets": [
+				-9,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fall",
+			"indices": [],
+			"name": "NATSUKI FALL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "breath",
+			"indices": [],
+			"name": "NATSUKI BREATH IN"
+		},
+		{
+			"offsets": [
+				-22,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blush",
+			"indices": [],
+			"name": "NATSUKI GAYYY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/natsuki_sl",
+	"position": [
+		40,
+		210
+	],
+	"healthicon": "natsukilove",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		165,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

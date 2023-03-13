@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MONIKA IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MONIKA NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MONIKA NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MONIKA NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MONIKA NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MONIKA LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-43
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MONIKA DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				38
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MONIKA UP MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MONI_SWEATER",
+	"position": [
+		120,
+		230
+	],
+	"healthicon": "monikatrust",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

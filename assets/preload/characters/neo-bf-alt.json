@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "NEO BF HEY!"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NEO BF ALT IDLE"
+		},
+		{
+			"offsets": [
+				20,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NEO BF ALT NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-3,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NEO BF ALT NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-16,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NEO BF ALT NOTE UP"
+		},
+		{
+			"offsets": [
+				-47,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NEO BF ALT NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-2,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "NEO BF ALT DOWN MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "NEO BF ALT UP MISS"
+		},
+		{
+			"offsets": [
+				-50,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "NEO BF ALT RIGHT MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "NEO BF ALT LEFT MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEO_ALT_BOYFRIDNE",
+	"position": [
+		-250,
+		-170
+	],
+	"healthicon": "neo-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		29,
+		255,
+		175
+	],
+	"camera_position": [
+		-100,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

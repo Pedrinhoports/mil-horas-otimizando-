@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				307,
+				241
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "NEO BF GAME OVER START"
+		},
+		{
+			"offsets": [
+				345,
+				256
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "NEO BF GAME OVER LOOP"
+		},
+		{
+			"offsets": [
+				301,
+				146
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "NEO BF GAME OVER END"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEO_GAMEOVER",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
