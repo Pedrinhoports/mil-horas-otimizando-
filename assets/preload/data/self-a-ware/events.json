@@ -1,0 +1,236 @@
+{
+	"song": {
+		"events": [
+			[
+				16000,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				41570,
+				[
+					[
+						"Change Character",
+						"GF",
+						"no-pico"
+					]
+				]
+			],
+			[
+				41583.3333333333,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				41595,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"neomonika-alt"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Change Character",
+						"BF",
+						"neo-bf-alt"
+					]
+				]
+			],
+			[
+				54379.1666666667,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				54385,
+				[
+					[
+						"Change Character",
+						"GF",
+						"no-pico"
+					]
+				]
+			],
+			[
+				54395,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"neomonika"
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Change Character",
+						"BF",
+						"neo-bf"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				118375,
+				[
+					[
+						"Change Character",
+						"GF",
+						"no-gf"
+					]
+				]
+			],
+			[
+				118383.333333333,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				118395,
+				[
+					[
+						"Change Character",
+						"BF",
+						"neo-bf-alt"
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"neomonika-alt"
+					]
+				]
+			],
+			[
+				131182.5,
+				[
+					[
+						"Change Character",
+						"GF",
+						"neo-pico"
+					]
+				]
+			],
+			[
+				131190,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"neomonika"
+					]
+				]
+			],
+			[
+				131195.833333333,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Change Character",
+						"BF",
+						"neo-bf"
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				182000,
+				[
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				182382.5,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Change Character",
+						"GF",
+						"no-more-pico"
+					]
+				]
+			]
+		]
+	}
+}
